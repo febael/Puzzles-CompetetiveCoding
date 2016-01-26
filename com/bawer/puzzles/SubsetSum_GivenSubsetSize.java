@@ -1,3 +1,6 @@
+package com.bawer.puzzles;
+
+
 import java.util.Arrays;
 
 
