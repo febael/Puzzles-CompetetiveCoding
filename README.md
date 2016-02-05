@@ -18,6 +18,9 @@ The first line of input gives a single integer, 1≤t≤401≤t≤40, the number
 #### Output
 For each test case, output “YES” if the list is consistent, or “NO” otherwise.
 
+| Sample Input | Sample Output |
+|--------------|---------------|
+| 2 <br/> 3 <br/> 911 <br/> 97625999 <br/> 91125426 <br/> 5 <br/> 113 <br/> 12340 <br/> 123440 <br/> 12345 <br/> 98346 | NO <br/> YES
 
 TETRIS
 ------
